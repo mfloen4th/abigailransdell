@@ -9,6 +9,8 @@ const Layout = async (config) => {
   return `<!DOCTYPE html>
 <html>
 <head>
+<meta name="google-site-verification" content="Ppu_vxPxV1RrCckwXbRjhf4XUnGfL5aYGtNh7wI1TEI" />
+<meta name="yandex-verification" content="4de0820e0f25fb2a" />
 ${await Head(config)}
 </head>
 <body>
